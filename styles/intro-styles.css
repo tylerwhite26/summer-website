@@ -1,0 +1,21 @@
+#main-title, .message-line {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#moving-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wavy-text {
+    display: flex;
+    flex: 1;
+    background-color: black;
+    width: 100%;
+    margin: .5em 0em;
+}
+.message-line {
+    padding: 0em 0.1em;
+    margin: 0;
+    background-color: white;
+}
